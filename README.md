@@ -1,4 +1,6 @@
-# E-COMMERCE-SITE-WITH-CLOUD-STORAGE🍽️ Zomato App with Cloud Storage — DevOps Project 🚀
+# E-COMMERCE-SITE-WITH-CLOUD-STORAGE
+
+🍽️ Zomato App with Cloud Storage — DevOps Project 🚀
 
 1️⃣ Plan & Set Up Repository 📝🐙
 
